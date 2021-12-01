@@ -1,0 +1,16 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bradley Bellairs",
+  "license": "ISC",
+  "devDependencies": {
+    "@hellomouse/eslint-config-typescript": "^1.3.0",
+    "typescript": "^4.5.2"
+  }
+}
